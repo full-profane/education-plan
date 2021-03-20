@@ -1,4 +1,4 @@
-#Reverse array
+# Reverse array
 
 Write a function that reverts the input array. Please, do not use array.reverse(); to make this task more enjoyable
 ```
