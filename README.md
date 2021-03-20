@@ -1,12 +1,11 @@
-# Prefilled integers in array
+# Prefilled array
 
-Write a JavaScript function to generate an array of specified length, filled with integer numbers, increase by one from starting position.
-
-```
+Write a JavaScript function to create a specified number of elements with pre-filled string value array.
+ ```
 Test Data :
-console.log(array_range(1, 4));
-[1, 2, 3, 4]
-console.log(array_range(-6, 4));
-[-6, -5, -4, -3]
+console.log(array_filled(3, 'default value'));
+["default value", "default value", "default value"]
+console.log(array_filled(4, 'password'));
+["password", "password", "password", "password"]
 
 ```
