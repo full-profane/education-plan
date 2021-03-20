@@ -1,4 +1,4 @@
-function reverse (array) {
+function reverse(array) {
   let result = [];
   for (let i = 1; i <= array.length; i++) {
     result.push(array[array.length-i]);
